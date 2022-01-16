@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamilBharathiR
 - 👀 I’m interested in exploring and learning anything and everything under the sky.
-- 🌱 I’m currently working on pyspark and very much interested in learning Data Analyst Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on pyspark and very much interested in learning Data Science.
+- 💞️ I’m looking to collaborate on Pyspark, Python, Hive, AWS and ETL Tools.
 - 📫 How to reach me - E-mail : tbharathiramu@gmail.com
 -                       LinkedIn : www.linkedin.com/in/tamil-bharathi-ramu
 
