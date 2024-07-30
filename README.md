@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=python,azure,aws" />
   </a>
 </p>
 
