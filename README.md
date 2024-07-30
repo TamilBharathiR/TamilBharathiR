@@ -20,17 +20,17 @@
 
 ### Data Engineer
 - **Company**: Tiger Analytics 
-- **Duration**: June 2022 - Present
+- **Duration**: <i>June 2022 - Present</i>
 
 ### Software Engineer
 - **Company**: Virtusa 
-- **Duration**: May 2019 - June 2022
+- **Duration**: <i>May 2019 - June 2022</i>
 
 
 ## 🎓 Education
 - **Bachelor of Technology in Information Technology**
   - Rajalakshmi Engineering College
-  - 2015 - 2019
+  - <i>2015 - 2019</i>
 
 
 ## 💬 Let's Connect
@@ -39,13 +39,15 @@
 
 
 ## 📈 GitHub Stats
-![Tamil Bharathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamilBharathiR&show_icons=true&theme=radical)<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamilBharathiR&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=TamilBharathiR&color=red)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TamilBharathiR&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamilBharathiR&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TamilBharathiR&color=red" alt="Profile Views"/>
+</p>
 <!---
 TamilBharathiR/TamilBharathiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
