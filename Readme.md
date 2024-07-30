@@ -11,7 +11,6 @@
 - Machine Learning
 
 
-## Work Experience 
 ## 💼 Work Experience
 ### Data Engineer
 **Company**: Tiger Analytics 
