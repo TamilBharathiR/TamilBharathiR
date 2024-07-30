@@ -17,6 +17,8 @@
   - 2019
 
 ## 💬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
+- [Email](mailto:tbharathiramu.com)
 
 ## 📈 GitHub Stats
 ![Tamil Bharathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamilBharathiR&show_icons=true&theme=radical)<br>
