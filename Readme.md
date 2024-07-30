@@ -1,4 +1,4 @@
-# Tamil Bharathi R
+# Tamil Bharathi Ramu
 
 ## 🔧 Skills
 - Python, PySpark, SQL, Hive, OOzie, Pig
