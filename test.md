@@ -1,16 +1,3 @@
-# Tamil Bharathi Ramu
-
-## 🔧 Skills
-- Python, PySpark, SQL, Hive, OOzie, Pig
-- **Cloud Platforms**: 
-  - **Azure**: Databricks, ADF, ADLs
-  - **AWS**: Glue, S3
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,aws" />
-  </a>
-</p>
 
 ## 🌱 Currently Learning
 - Machine Learning
@@ -18,21 +5,10 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Current%20Focus-brightgreen" alt="Currently Learning Badge"/>
 </p>
 
-## 💼 Work Experience
-
-### Data Engineer
-- **Company**: Tiger Analytics 
-- **Duration**: June 2022 - Present
-
-### Software Engineer
-- **Company**: Virtusa 
-- **Duration**: May 2019 - June 2022
-
-
 ## 🎓 Education
 - **Bachelor of Technology in Information Technology**
   - Rajalakshmi Engineering College
-  - 2015 - 2019
+  - <i>2015 - 2019</i>
 
 <p align="left">
   <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-blue" alt="Education Badge"/>
