@@ -17,7 +17,7 @@
   - 2019
 
 ## 💬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/balaji-ramu-437b51290/)
+- [LinkedIn](www.linkedin.com/in/tamil-bharathi-ramu)
 - [Email](mailto:tbharathiramu.com)
 
 ## 📈 GitHub Stats
