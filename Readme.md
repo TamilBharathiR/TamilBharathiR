@@ -1,7 +1,7 @@
 # Tamil Bharathi R
 
 ## 🔧 Skills
-- **Programming Languages**: Python, PySpark, SQL, Hive, Pig
+- Python, PySpark, SQL, Hive, OOzie, Pig
 - **Cloud Platforms**: 
   - **Azure**: Databricks, ADF, ADLS
   - **AWS**: Glue, S3
@@ -13,24 +13,24 @@
 
 ## Work Experience 
 ## 💼 Work Experience
-### [Your Position]
-**Company**: [Your Company]  
-**Duration**: [Your Duration]
+### Data Engineer
+**Company**: Tiger Analytics 
+**Duration**: June 2022 - Present
 
-### [Your Position]
-**Company**: [Your Company]  
-**Duration**: [Your Duration]
+### Software Engineer
+**Company**: Virtusa 
+**Duration**: May 2019 - June 2022
 
 
 ## 🎓 Education
 - **Bachelor of Technology in Information Technology**
   - Rajalakshmi Engineering College
-  - 2019
+  - 2015 - 2019
 
 
 ## 💬 Let's Connect
 - [LinkedIn](www.linkedin.com/in/tamil-bharathi-ramu)
-- [Email](mailto:tbharathiramu.com)
+- [Email](mailto:tbharathiramu@gmail.com)
 
 
 ## 📈 GitHub Stats
