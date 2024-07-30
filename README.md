@@ -17,13 +17,14 @@
 
 
 ## 💼 Work Experience
+
 ### Data Engineer
-**Company**: Tiger Analytics 
-**Duration**: June 2022 - Present
+- **Company**: Tiger Analytics 
+- **Duration**: June 2022 - Present
 
 ### Software Engineer
-**Company**: Virtusa 
-**Duration**: May 2019 - June 2022
+- **Company**: Virtusa 
+- **Duration**: May 2019 - June 2022
 
 
 ## 🎓 Education
