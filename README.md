@@ -6,6 +6,11 @@
   - **Azure**: Databricks, ADF, ADLS
   - **AWS**: Glue, S3
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,azure,aws" />
+  </a>
+</p>
 
 ## 🌱 Currently Learning
 - Machine Learning
