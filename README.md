@@ -3,7 +3,7 @@
 ## 🔧 Skills
 - Python, PySpark, SQL, Hive, OOzie, Pig
 - **Cloud Platforms**: 
-  - **Azure**: Databricks, ADF, ADLS
+  - **Azure**: Databricks, ADF, ADLs
   - **AWS**: Glue, S3
 
 <p align="left">
