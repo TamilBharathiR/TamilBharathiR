@@ -11,6 +11,11 @@
 
 ## Work Experience 
 
+## 🎓 Education
+- **Bachelor of Technology in Information Technology**
+  - Rajalakshmi Engineering College
+  - 2019
+
 ## 💬 Let's Connect
 
 ## 📈 GitHub Stats
