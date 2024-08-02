@@ -34,9 +34,13 @@
 
 
 ## 💬 Let's Connect
-- [LinkedIn](www.linkedin.com/in/tamil-bharathi-ramu)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tamil-bharathi-ramu"><img src="https://img.shields.io/badge/LinkedIn-Tamil%20Bharathi%20Ramu-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:tbharathiramu@gmail.com"><img src="https://img.shields.io/badge/Email-tbharathiramu@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+</p>
+<!--- [LinkedIn](www.linkedin.com/in/tamil-bharathi-ramu)
 - [Email](mailto:tbharathiramu@gmail.com)
-
+-->
 
 ## 📈 GitHub Stats
 <p align="left">
